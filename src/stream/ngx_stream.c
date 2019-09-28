@@ -648,4 +648,5 @@ ngx_stream_cmp_conf_addrs(const void *one, const void *two)
     /* do not sort by default */
 
     return 0;
+//test the code 
 }
